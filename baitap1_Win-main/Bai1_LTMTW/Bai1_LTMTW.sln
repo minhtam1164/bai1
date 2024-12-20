@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_LTMTW", "Bai1_LTMTW\Bai1_LTMTW.csproj", "{497453FF-90A3-4BDC-B0BA-EDCCBFE7A7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497453FF-90A3-4BDC-B0BA-EDCCBFE7A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497453FF-90A3-4BDC-B0BA-EDCCBFE7A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497453FF-90A3-4BDC-B0BA-EDCCBFE7A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497453FF-90A3-4BDC-B0BA-EDCCBFE7A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F503AA9B-606D-40C5-AE49-84DF7AA7D43E}
+	EndGlobalSection
+EndGlobal

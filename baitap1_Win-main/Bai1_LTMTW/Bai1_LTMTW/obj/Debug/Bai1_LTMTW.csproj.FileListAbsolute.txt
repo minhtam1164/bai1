@@ -1,0 +1,7 @@
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\bin\Debug\Bai1_LTMTW.exe.config
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\bin\Debug\Bai1_LTMTW.exe
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\bin\Debug\Bai1_LTMTW.pdb
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\obj\Debug\Bai1_LTMTW.csproj.AssemblyReference.cache
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\obj\Debug\Bai1_LTMTW.csproj.CoreCompileInputs.cache
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\obj\Debug\Bai1_LTMTW.exe
+C:\Van\Tan_BaiTapLTTMTW\Bai1_LTMTW\Bai1_LTMTW\obj\Debug\Bai1_LTMTW.pdb
